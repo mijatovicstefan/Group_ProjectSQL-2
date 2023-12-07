@@ -1,1 +1,2 @@
-# Group_ProjectSQL-2
+# Mist 4610 Group Project 1
+
