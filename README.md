@@ -13,6 +13,7 @@ The dataset that we have chosen shows the attendance rate by school district in 
 Question: For the 2021-2022 school year, model the five school districts with the lowest overall attendance rates. Include only school districts that have “Free Meal Eligible” and “Reduced Price Meal Eligible” programs. Compare these two groups to all students of each of these school districts. 
 
 Importance:
+
 The question is crucial for revealing the impact of Free Meal Eligible and Reduced Price Meal Eligible programs on attendance rates during the 2021-2022 school year. By focusing on the districts with the lowest overall attendance rates, the analysis aims to uncover whether these meal assistance programs are effective in the worst possible attendance situations. The comparison of attendance rates between students benefiting from these programs and the wider student population within the same districts offers a way to see if students of specific programs have a higher attendance rate than all students. This could prove to be an incentive for more schools to implement these programs.
 
 ![Screenshot 2023-12-06 193914](https://github.com/ManuelDSanchez/Group_ProjectSQL-2/assets/148248019/b4a50558-5212-45b5-bd91-869166d6d882)
@@ -23,6 +24,7 @@ Our graph centers on the attendance rates in Connecticut school districts with t
 Question: Provide the attendance rate for all students, homeless students, and students with disabilities for the three most populated districts in the 2021-2022 school year. For these three districts, model their attendance rates for all school years since 2019.
 
 Importance:
+
 This question is important because it enables us to compare attendance rates for students with different backgrounds. School officials can answer questions such as, “Do factors such as homelessness affect attendance rates?” They can then decide if it is necessary to implement programs to increase attendance rates for these groups. The second part of the question allows us to see how COVID has affected attendance rates, if they decreased during the pandemic, and if there ever was a “return to normalcy.” We can also use the second part of the question to determine if groups of students such as students with disabilities were disproportionately affected by COVID.
 
 ![Screenshot 2023-12-06 193933](https://github.com/ManuelDSanchez/Group_ProjectSQL-2/assets/148248019/f3ac195e-df7e-41f5-a270-fac74f1fa6cd)
