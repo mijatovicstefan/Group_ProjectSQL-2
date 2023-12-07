@@ -30,6 +30,14 @@ This question is important because it enables us to compare attendance rates for
 
 The graph shows that homeless students and students with disabilities generally have lower attendance rates compared to the entire student body. We can see that attendance rates began to decrease in 2020, when the COVID pandemic first began. We can also see that the homeless population was affected disproportionately compared to the student body. Student officials can use this information to ensure homeless students have more support during events such as this, as it was found they are affected more. It was also shown that more effective methods might be available for maintaining attendance rates, even through pandemics. 
 
+## Manipulations applied to the data set for analysis
+
+We did not manipulate any of the data, yet for the Lowest Overall Attendence Rate School Districts graph, we only included School Districts that included all three student groups: 
+	
+  All Students, Free Meal Eligible, Reduced Price Meal Eligible
+ 
+The five school districts with the lowest overall attendance rates initially did not have all these three groups therefore comparison between districts was much harder to comprehend. To counteract this, we only included the five school districts with all three student groups for clarity and consistency.
+
 ## Tableau packaged workbook:
 The packaged workbook containing the visualizations shown above is attached to this repository.
 
